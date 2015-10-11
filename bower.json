@@ -15,6 +15,6 @@
     "qunit": "~1.15.0"
   },
   "devDependencies": {
-    "animate.css": "latest"
+    "textillate": "latest"
   }
 }

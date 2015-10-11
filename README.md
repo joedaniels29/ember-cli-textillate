@@ -1,13 +1,16 @@
-# ember-cli-animate.css
+# ember-cli-textillate
 
-Include animate.css in an ember-cli app.
+Include textillate in an ember-cli app.
 
-When the addon is installed, it will add animate.css `latest` as
+When the addon is installed, it will add textillate `latest` as
 a bower dependency.
 
 ## Dependencies
 
-There ought not be any Dependencies. This addon does not utilize sass.
+Depends on a couple other ember addons:
+
+     "ember-cli-lettering-js": "latest",
+     "ember-cli-animate-css": "latest"
 
 
 ## Usage
