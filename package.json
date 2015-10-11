@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-textillate",
-  "description": "Include boubon in an ember-cli app",
-  "version": "0.0.6",
+  "description": "Include textillate in an ember-cli app",
+  "version": "0.0.7",
   "directories": {
     "test": "tests"
   },
