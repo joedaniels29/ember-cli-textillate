@@ -64,7 +64,7 @@
   "ember-addon": {
       "configPath": "tests/dummy/config",
       "defaultBlueprint": "ember-cli-textillate",
-      "main": "index.js",
+      "main": "index.js"
   },
   "bugs": {
     "url": "https://github.com/joedaniels29/ember-cli-textillate/issues"
