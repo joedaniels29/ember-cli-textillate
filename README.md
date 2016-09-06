@@ -1,5 +1,7 @@
 # ember-cli-textillate
 
+[![Build Status](https://travis-ci.org/joedaniels29/ember-cli-textillate.svg?branch=master)](https://travis-ci.org/joedaniels29/ember-cli-textillate)
+
 Include textillate in an ember-cli app.
 
 When the addon is installed, it will add textillate `latest` as
