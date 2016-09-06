@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "ember-cli-lettering-js": "latest",
-    "ember-cli-animatecss": "latest",
+    "ember-cli-animatecss": "latest"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.1.2",
